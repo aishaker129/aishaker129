@@ -1,4 +1,4 @@
-### Hi there 👋 Iam Md Akhlakul Islam
+### Hi there 👋 I am Md Akhlakul Islam
 
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
 
