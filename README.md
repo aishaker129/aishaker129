@@ -1,4 +1,3 @@
-[![An image of @aishaker129's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishaker129)](https://holopin.io/@aishaker129)
 <h1 align="center">Hi 👋, I'm Md Akhlakul Islam Shaker</h1>
 <h3 align="center">A passionate competitive programming from Bangladesh.</h3>
 
