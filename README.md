@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Akhlakul Islam Shaker</h1>
-<h3 align="center">A passionate competitive programmer.</h3>
+<h3 align="center">A passionate competitive programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishaker129&label=Profile%20views&color=0e75b6&style=flat" alt="aishaker129" /> </p>
 
