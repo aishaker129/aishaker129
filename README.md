@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Akhlakul Islam Shaker</h1>
 <h3 align="center">A passionate competitive programmer.</h3>
 
+[![An image of @aishaker129's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishaker129)](https://holopin.io/@aishaker129)
+
 - 🌱 I’m currently learning **Algorithm,Web Development**
 
 - 💬 Ask me about **C,C++,Database,Algorithm,Web Development**
