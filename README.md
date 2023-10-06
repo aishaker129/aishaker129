@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/aishaker129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aishaker129" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aishaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishaker" height="30" width="40" /></a>
-<a href="https://fb.com/ai shaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ai shaker" height="30" width="40" /></a>
+<a href="https://fb.com/ai.shaker.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ai.shaker.92" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aishaker129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aishaker129" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aishaker129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aishaker129" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aishaker129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aishaker129" height="30" width="40" /></a>
