@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishaker129&label=Profile%20views&color=0e75b6&style=flat" alt="aishaker129" /> </p>
 
-[![An image of @aishaker129's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishaker129)](https://holopin.io/@aishaker129)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Algorithm,Web Development**
 
