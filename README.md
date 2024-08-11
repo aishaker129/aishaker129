@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Akhlakul Islam Shaker</h1>
 <h3 align="center">A passionate competitive programmer </h3>
 
-![](https://media.licdn.com/dms/image/v2/C4D16AQGfvQ8T4IO8TQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661629299607?e=1729123200&v=beta&t=Dgdom2T9Kg0bT4o4DYwFuT-BaJdwS0fMh5z-zWKaphg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishaker129&label=Profile%20views&color=0e75b6&style=flat" alt="aishaker129" /> </p>
 
+[![An image of @aishaker129's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aishaker129)](https://holopin.io/@aishaker129)
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Algorithm,Web Development**
 
